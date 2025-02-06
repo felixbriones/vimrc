@@ -25,3 +25,6 @@ set mouse=a
 
 " Highlight the current line
 set cursorline
+
+" Turn syntax coloring on, since Vim on Arch defaults to minimal mode when loading my vimrc for some reason
+syntax on
